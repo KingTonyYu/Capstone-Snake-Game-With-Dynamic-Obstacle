@@ -1,0 +1,3 @@
+/home/isuzu/Downloads/Capstone-Snake-Game-With-Dynamic-Obstacle/build/CMakeFiles/rebuild_cache.dir
+/home/isuzu/Downloads/Capstone-Snake-Game-With-Dynamic-Obstacle/build/CMakeFiles/edit_cache.dir
+/home/isuzu/Downloads/Capstone-Snake-Game-With-Dynamic-Obstacle/build/CMakeFiles/SnakeGame.dir
